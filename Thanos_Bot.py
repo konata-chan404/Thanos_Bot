@@ -38,7 +38,7 @@ class MyClient(discord.Client):
             if config_read("Quote"): #after the bans it checks if the quote feature is "turned on"
                 await message.channel.send('This server is now perfectly balanced, as all things should be...') #if it is the bot sends the quote to the server
             if config_read("List"): #after the bans it checks if the list feature is "turned on"
-                list = "```Victims of Thanos_Bot:" + '\n' + '\n'.join(chosenmembers) + '```' #this line takes the list that we added stuff to in the for loop and inserts the elements into it to a template i made with lines between the elements
+                list = "```Victims of " + self.user.name + ':' + '\n' + '\n'.join(chosenmembers) + '```' #this line takes the list that we added stuff to in the for loop and inserts the elements into it to a template i made with lines between the elements
                 await message.channel.send(list) #sends takes the string with the list in the template and sends it to the server
 
 
