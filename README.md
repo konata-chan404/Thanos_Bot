@@ -9,7 +9,7 @@ Python 3.7
 discord.py 1.0.0
 
 ## Features
-This bot is was inspired by the Marvel character Thanos, the bot bans/kicks half of the non admin members of the server! It can generate a list of the victims of the bot and can send a nice quote of thanos, and thats pretty much it.
+This bot is was inspired by the Marvel character Thanos, the bot bans/kicks half of the non admin members of the server! It can generate a list of the victims of the bot and can send a nice thanos quote, and thats pretty much it.
 
 ![alt text](https://github.com/konata-chan404/Thanos_Bot/blob/master/2019-06-28-14-16-10.gif)
 
