@@ -16,7 +16,7 @@ This bot is inspired by the Marvel character Thanos, the bot can ban/kick half o
 Here's a link to a video of a big snap with 13 people - https://youtu.be/ZjLBeU8d69A?list=UUHYcu88-V1iP1FTTRz_t74A (just keep in mind that this video was made before the list and the quote features were made.)
 
 ## How to Use
-Insert your token into the token variable and start the program, the bot only has the *!snap* command, you can toggle between kick and ban mode from the JSON file. You can also change the fact that the bot sends a list with the users he snapped and a thanos quote in the JSON file.
+Invite the bot into your server and give him admin permissions, then insert your token into the token variable and start the program, the bot only has the *!snap* command, you can toggle between kick and ban mode from the JSON file. You can also change the fact that the bot sends a list with the users he snapped and a thanos quote in the JSON file.
 
 
 ### P.S.
