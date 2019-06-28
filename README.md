@@ -22,3 +22,9 @@ Invite the bot into your server and give him admin permissions, then insert your
 ### P.S.
 
 This is my first "more than 20 minutes of work" project so don't be harsh ok thanks.
+
+#### P.S. 2
+I am completely new to github and at first I made a branch of each day and committed my changes to the branches, then someone told me that I should just commit to master instead so thats what I did, after finishing everything i deleted the old branches to tidy stuff up and then i realized that my old commits and version are gone, but worry not I started at the intended date (:
+
+
+#Thanks to Discord for hosting the first hacking/programming event I participated in!
